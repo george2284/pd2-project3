@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>project3/amber.jpg</file>
+        <file>project3/amber_horizon.jpg</file>
+        <file>project3/amber_horizon_selected.jpg</file>
+        <file>project3/amber_selected.jpg</file>
+        <file>project3/amber_verticle.jpg</file>
+        <file>project3/amber_verticle_selected.jpg</file>
+        <file>project3/amethyst.jpg</file>
+        <file>project3/amethyst_horizon.jpg</file>
+        <file>project3/amethyst_horizon_selected.jpg</file>
+        <file>project3/amethyst_round.jpg</file>
+        <file>project3/amethyst_round_selected.jpg</file>
+        <file>project3/amethyst_selected.jpg</file>
+        <file>project3/amethyst_verticle.jpg</file>
+        <file>project3/amethyst_verticle_selected.jpg</file>
+        <file>project3/emerald.jpg</file>
+        <file>project3/emerald_horizon.jpg</file>
+        <file>project3/emerald_horizon_selected.jpg</file>
+        <file>project3/emerald_round.jpg</file>
+        <file>project3/emerald_round_selected.jpg</file>
+        <file>project3/emerald_selected.jpg</file>
+        <file>project3/emerald_verticle.jpg</file>
+        <file>project3/emerald_verticle_selected.jpg</file>
+        <file>project3/pearl.jpg</file>
+        <file>project3/pearl_selected.jpg</file>
+        <file>project3/ruby.jpg</file>
+        <file>project3/ruby_horizon.jpg</file>
+        <file>project3/ruby_horizon_selected.jpg</file>
+        <file>project3/ruby_round.jpg</file>
+        <file>project3/ruby_round_selected.jpg</file>
+        <file>project3/ruby_selected.jpg</file>
+        <file>project3/ruby_verticle.jpg</file>
+        <file>project3/ruby_verticle_selected.jpg</file>
+        <file>project3/sapphire.jpg</file>
+        <file>project3/sapphire_horizon.jpg</file>
+        <file>project3/sapphire_horizon_selected.jpg</file>
+        <file>project3/sapphire_round.jpg</file>
+        <file>project3/sapphire_round_selected.jpg</file>
+        <file>project3/sapphire_selected.jpg</file>
+        <file>project3/sapphire_verticle.jpg</file>
+        <file>project3/sapphire_verticle_selected.jpg</file>
+        <file>project3/Thumbs.db</file>
+        <file>project3/topaz_round.jpg</file>
+        <file>project3/topaz_round_seleced.jpg</file>
+    </qresource>
+</RCC>
